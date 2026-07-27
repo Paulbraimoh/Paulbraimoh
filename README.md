@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @Paulbraimoh
+  
+- Software Dev at Cubeseed Ltd
+  
+- Integration engineer at Offpista Ltd
 
 - 👀 I’m passionate about creating modern, responsive web applications and exploring how IoT and AI can power smarter solutions
 
